@@ -1,2 +1,2 @@
 # rock-paper-scissors
-Simple "Rock, Paper, Scissors" game in Python
+Very simple "Rock, Paper, Scissors" game using python loops and randint.
